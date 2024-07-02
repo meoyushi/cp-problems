@@ -1,0 +1,1 @@
+{"name":"Local: ELHP","url":"/Users/aayushithakre/Desktop/COMPprog/ELHP.cpp","tests":[{"id":1717599893240,"input":"79 40","output":"NO"},{"id":1717599986649,"input":"28 14","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/ELHP.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: 486A","url":"/Users/aayushithakre/Desktop/COMPprog/486A.cpp","tests":[{"id":1716886447067,"input":"4","output":"2"},{"id":1716886455262,"input":"5","output":"-3"},{"id":1716886762659,"input":"100000000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/486A.cpp","group":"local","local":true}

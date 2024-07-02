@@ -1,0 +1,1 @@
+{"name":"Local: MAKEPERM","url":"/Users/aayushithakre/Desktop/COMPprog/MAKEPERM.cpp","tests":[{"id":1719416958764,"input":"1\n5\n4 1 3 2 1\n","output":"yes\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/MAKEPERM.cpp","group":"local","local":true}

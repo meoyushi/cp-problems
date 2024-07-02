@@ -1,0 +1,1 @@
+{"name":"Local: DISCOOKIE","url":"/Users/aayushithakre/Desktop/COMPprog/DISCOOKIE.cpp","tests":[{"id":1718808412963,"input":"4\n5 17\n5 18\n4 1\n2 18","output":"2\n2\n3\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/DISCOOKIE.cpp","group":"local","local":true}
