@@ -1,0 +1,1 @@
+{"name":"Local: 1992A","url":"/Users/aayushithakre/Desktop/COMPprog/1992A.cpp","tests":[{"id":1720709440146,"input":"2\n2 3 4\n10 1 10\n","output":"100\n600"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/1992A.cpp","group":"local","local":true}
