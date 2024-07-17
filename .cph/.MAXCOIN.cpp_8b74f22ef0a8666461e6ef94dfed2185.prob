@@ -1,0 +1,1 @@
+{"name":"Local: MAXCOIN","url":"/Users/aayushithakre/Desktop/COMPprog/MAXCOIN.cpp","tests":[{"id":1721227333208,"input":"3\n2 1\n2 2\n4 1","output":"2\n6\n2\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/MAXCOIN.cpp","group":"local","local":true}
