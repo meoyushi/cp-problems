@@ -1,0 +1,1 @@
+{"name":"Local: knockout","url":"/Users/aayushithakre/Desktop/COMPprog/knockout.cpp","tests":[{"id":1723045483371,"input":"1\n22 16 36 18 4 21 28 2 7 35 9 15 5 23 10 20","output":"3 3 4 3 1 3 3 0 2 3 2 2 1 3 2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/knockout.cpp","group":"local","local":true}

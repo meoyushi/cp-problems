@@ -1,0 +1,1 @@
+{"name":"Local: gcd2","url":"/Users/aayushithakre/Desktop/coding/COMPprog/gcd2.cpp","tests":[{"id":1728489660099,"input":"2\n4 4\n2 3","output":""},{"id":1729090011463,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/coding/COMPprog/gcd2.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: createpermutation","url":"/Users/aayushithakre/Desktop/COMPprog/createpermutation.cpp","tests":[{"id":1723055615402,"input":"2\n2\n5","output":"1 2\n1 4 3 5 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/createpermutation.cpp","group":"local","local":true}
