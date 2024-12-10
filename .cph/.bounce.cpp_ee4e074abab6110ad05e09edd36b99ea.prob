@@ -1,0 +1,1 @@
+{"name":"Local: bounce","url":"/Users/aayushithakre/Desktop/COMPprog/bounce.cpp","tests":[{"id":1723057314039,"input":"4\n4\n1 0 0 2\n5\n1 1 0 1 1\n5\n2 4 0 5 0\n3\n1000 0 999","output":"2\n2\n1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/bounce.cpp","group":"local","local":true}

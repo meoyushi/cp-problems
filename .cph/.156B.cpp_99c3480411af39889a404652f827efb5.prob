@@ -1,0 +1,1 @@
+{"name":"Local: 156B","url":"/Users/aayushithakre/Desktop/coding/COMPprog/156B.cpp","tests":[{"id":1729090348945,"input":"3\n5\n1 4 5 2 10\n3\n2 3 5\n4\n2 10 4 8","output":"1\n3\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/coding/COMPprog/156B.cpp","group":"local","local":true}

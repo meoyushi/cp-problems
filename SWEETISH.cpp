@@ -5,16 +5,13 @@
 #include<algorithm>
 #include<cstring>
 using namespace std;
-
 #define ll long long
 
-void divcol(){
-ll t; cin>>t; while(t--){
-        
-    }
-}
-
 int main(){
-    divcol();
+    int x, n;
+    cin>>x>>n;
+
+    int c= x - n*10;
+    cout<<c/20<<endl;
     return 0;
 }

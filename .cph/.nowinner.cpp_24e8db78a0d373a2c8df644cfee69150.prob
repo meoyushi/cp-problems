@@ -1,0 +1,1 @@
+{"name":"Local: nowinner","url":"/Users/aayushithakre/Desktop/COMPprog/nowinner.cpp","tests":[{"id":1723042395997,"input":"3\n3 5 2 1\n4 4 2 5\n1 4 7 2","output":"YES\nYES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/aayushithakre/Desktop/COMPprog/nowinner.cpp","group":"local","local":true}
